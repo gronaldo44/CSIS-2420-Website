@@ -1,5 +1,6 @@
 # CSIS-2420-Website
 Cookie Assignment
+
 This is an extremely simple and ugly website that a theoretical company might use to sell cookies.
 This is not a web design project. This is a web dev project, hence the ugly design.
 The goals of this project were: 
